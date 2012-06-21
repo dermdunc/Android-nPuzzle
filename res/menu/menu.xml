@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/menu_reshuffle" android:title="Reshuffle" android:icon="@android:drawable/ic_popup_sync" />
+	<item android:id="@+id/menu_new_image" android:title="New Image" android:icon="@android:drawable/ic_menu_set_as" />
+	<item android:id="@+id/menu_easy" android:title="Easy" />
+	<item android:id="@+id/menu_medium" android:title="Medium" />
+	<item android:id="@+id/menu_hard" android:title="Hard" />
+</menu>
